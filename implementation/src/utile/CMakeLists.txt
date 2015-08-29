@@ -1,1 +1,0 @@
-add_subdirectory(AADC_UserAttitudeConverter)

@@ -1,2 +1,0 @@
-<type>7<x>17<y>3<w>6<h>21<thresh>2359<pol>g<alpha>2.56328<end>
-<type>5<x>0<y>1<w>21<h>23<thresh>15925<pol>g<alpha>2.65481<end>
